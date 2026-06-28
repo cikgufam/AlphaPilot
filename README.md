@@ -11,5 +11,4 @@ AI-powered investment research platform.
 - Designs
 - Prompts
 
-AI-powered investment research platform
 
