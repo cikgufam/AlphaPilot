@@ -1,5 +1,6 @@
 # AlphaPilot
 
+
 AI-powered investment research platform.
 
 ## Project Structure
@@ -9,3 +10,6 @@ AI-powered investment research platform.
 - Docs
 - Designs
 - Prompts
+
+AI-powered investment research platform
+
